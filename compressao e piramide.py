@@ -16,12 +16,12 @@
  *                                                                         *
  ***************************************************************************/
 """
-# COMPRESSAO
-##Compressao=name
+# COMPRESSAO E PIRAMIDE
+##Compressao e Piramide=name
 ##LF5) Raster=group
 ##Entrada=raster
 ##Saida=output raster
-##Tipo_de_Compressao=selection JPEG;Photometric
+##Tipo_de_Compressao=selection JPEG+PHOTOMETRIC;JPEG;Photometric
 ##Qualidade_JPEG=selection 75%;65%;85%
 ##Criar_Piramides=boolean False
 
